@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Seung-Bum/Seung-Bum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying to become a web developer.
 
-Here are some ideas to get you started:
+### Skill 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages<br>
+<img src ="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square"/> <img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square"/>
+
+#### Tools<br>
+<img src ="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat-square"/>
+
+#### ETC.<br>
+<img src ="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?logo=Adobe Premiere Pro&logoColor=white&style=flat-square"/> <img src ="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=flat-square"/> <img src ="https://img.shields.io/badge/-Adobe After Effects-7E4DD2?logo=Adobe After Effects&logoColor=white&style=flat-square"/>
+
