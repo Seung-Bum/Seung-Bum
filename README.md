@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ### Hi there 👋<br>
 
@@ -15,11 +15,9 @@ I am constantly studying.
 
 ### <a href="https://www.notion.so/cfd0f142c0f34f0483bafb2c2619ac1c" style="text-decoration:none">Daily Note</a>📚
 
-#
-
+<!-- #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-Bum&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-Bum&layout=compact&theme=vue)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-Bum&layout=compact&theme=vue) -->
 
 </div>
 
