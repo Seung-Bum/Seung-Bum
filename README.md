@@ -2,7 +2,7 @@
 
 ### Hi there 👋<br>
 
-I am studying to become a web developer.<br>
+I studied video, but now I want to become a web developer<br>
 I am constantly studying. 
 
 ### Skill 🚀
