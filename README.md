@@ -12,6 +12,7 @@ I am constantly studying.
 
 #### Tools<br>
 <img src ="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat-square"/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### <a href="https://www.notion.so/cfd0f142c0f34f0483bafb2c2619ac1c" style="text-decoration:none">Daily Note</a> 📚
 
