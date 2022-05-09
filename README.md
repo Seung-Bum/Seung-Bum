@@ -2,8 +2,7 @@
 
 ### Hi there 👋<br>
 
-I studied video, but now I want to become a web developer <br>
-I am constantly studying. 
+영상을 전공했었고 앞으로는 웹개발자가 되고 싶어 꾸준히 공부하고 있는 신입 개발자 입니다. <br>
 
 ### Skill 🚀
 
