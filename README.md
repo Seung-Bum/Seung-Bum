@@ -7,7 +7,13 @@
 ### Skill 🚀
 
 #### Languages<br>
-<img src ="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square"/> <img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square"/>
+<img src ="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square"/> 
+<img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square"/>
+<img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=flat-square"/>
+<img src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat-square"/>
+
+
+
 
 #### Tools<br>
 <img src ="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat-square"/>
