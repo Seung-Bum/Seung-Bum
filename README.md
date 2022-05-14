@@ -30,7 +30,7 @@
 <img src ="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&style=flat-square"/>
 
 
-### <a href="https://www.notion.so/cfd0f142c0f34f0483bafb2c2619ac1c" style="text-decoration:none">Daily Note</a> 📚
+### <a href="https://www.notion.so/cfd0f142c0f34f0483bafb2c2619ac1c" style="text-decoration:none">Note</a> 📚
 
 <!-- #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-Bum&show_icons=true&theme=vue)
