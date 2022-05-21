@@ -30,11 +30,9 @@
 <img src ="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&style=flat-square"/>
 
 
-### <a href="https://purple-fuchsia-246.notion.site/cfd0f142c0f34f0483bafb2c2619ac1c" 
-       style="text-decoration:none">Note</a> 📚
+### <a href="https://purple-fuchsia-246.notion.site/cfd0f142c0f34f0483bafb2c2619ac1c" style="text-decoration:none">Note</a> 📚
   
-### <a href="https://purple-fuchsia-246.notion.site/Study-2bc13382ac2f45d9ae97c3c5e19ed4ef" 
-       style="text-decoration:none">Note_1</a> 📚
+### <a href="https://purple-fuchsia-246.notion.site/Study-2bc13382ac2f45d9ae97c3c5e19ed4ef" style="text-decoration:none">Note_1</a> 📚
 
 <!-- #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-Bum&show_icons=true&theme=vue)
