@@ -3,7 +3,6 @@
 ### Hi there 👋<br>
 
 
-### Skill 🚀
 
 #### Languages<br>
 <img src ="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square"/> 
