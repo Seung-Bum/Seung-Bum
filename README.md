@@ -4,24 +4,20 @@
 
 
 
-#### Languages<br>
+<!-- #### Languages<br> -->
 <img src ="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square"/> 
 <img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square"/>
 <img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=flat-square"/>
 <img src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat-square"/>
 
-
-
-
-#### Tools<br>
+<!-- #### Tools<br> -->
 <img src ="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat-square"/>
 <img src ="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=flat-square"/>
 <img src ="https://img.shields.io/badge/Eclipse-5C2D91.svg?style=for-the-badge&logo=Eclipse&logoColor=white&style=flat-square"/>
 <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat-square"/>
 <img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square"/>
 
-  
-#### ETC.<br>
+<!-- #### ETC.<br> -->
 <img src ="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?logo=Adobe Premiere Pro&logoColor=white&style=flat-square"/> 
 <img src ="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=flat-square"/> 
 <img src ="https://img.shields.io/badge/-Adobe After Effects-7E4DD2?logo=Adobe After Effects&logoColor=white&style=flat-square"/> <br>
