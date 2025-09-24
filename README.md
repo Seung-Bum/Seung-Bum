@@ -14,11 +14,7 @@
 <img src ="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=flat-square"/>
 <img src ="https://img.shields.io/badge/Eclipse-5C2D91.svg?style=for-the-badge&logo=Eclipse&logoColor=white&style=flat-square"/>
 <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat-square"/>
-<img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square"/>
 <!-- #### ETC.<br> -->
-<img src ="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?logo=Adobe Premiere Pro&logoColor=white&style=flat-square"/> 
-<img src ="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=flat-square"/> 
-<img src ="https://img.shields.io/badge/-Adobe After Effects-7E4DD2?logo=Adobe After Effects&logoColor=white&style=flat-square"/>
 <img src ="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&style=flat-square"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&style=flat-square"/>
 
